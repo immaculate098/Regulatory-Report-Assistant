@@ -51,7 +51,7 @@ cd frontend
 npm install
 npm start
 ```
-The app expects backend at `http://localhost:8000`.
+The app expects the backend at `http://localhost:8000`.
 
 ### Deployment (Render)
 Backend on Render (free web service):
@@ -66,18 +66,22 @@ Backend on Render (free web service):
 Frontend on Render:
 - Build: `npm run build`
 - Publish directory: `frontend/build`
-  - Render Static Site: root `/frontend`, Build Command `npm install && npm run build`, Publish Directory `build`.
+  - Render Static Site: root `/frontend`, Build Command `npm install && npm run build`, Publish Directory `/build`.
   - Netlify: drag‑and‑drop `frontend/build` or connect repo.
 
-### Notes
-- CORS is enabled for development. Restrict in production.
-- spaCy model `en_core_web_sm` is installed via requirements.
-- Rule‑based extraction covers common cases; easily extendable via synonyms.
+### Deployment links
 
-### Screenshots (suggested)
-- Home with input + results
-- History list
-- Severity doughnut chart
+#### Frontend
+
+https://regulatory-report-assistant-1.onrender.com
+
+#### Backend
+
+https://regulatory-report-assistant.onrender.com
+
+### Authored By:
+Immaculate Nayiga
+
 
 
 
