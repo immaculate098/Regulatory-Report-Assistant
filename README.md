@@ -83,6 +83,15 @@ https://regulatory-report-assistant.onrender.com
 Immaculate Nayiga
 
 
+### Image References
+<img width="1799" height="852" alt="Screenshot from 2025-09-26 16-23-22" src="https://github.com/user-attachments/assets/2d8d603e-74ba-4cbe-b1cf-d3d3a32b378a" />
+
+
+<img width="1848" height="1012" alt="Screenshot from 2025-09-26 16-17-29" src="https://github.com/user-attachments/assets/c0e7366c-ee9f-4610-881e-471be70bd7c8" />
+
+
+<img width="1848" height="1012" alt="Screenshot from 2025-09-26 16-15-36" src="https://github.com/user-attachments/assets/fa53e218-31b2-4efa-b51a-2489e598af9d" />
+
 
 
 
