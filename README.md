@@ -79,8 +79,6 @@ https://regulatory-report-assistant-1.onrender.com
 
 https://regulatory-report-assistant.onrender.com
 
-### Authored By:
-Immaculate Nayiga
 
 
 ### Image References
@@ -93,6 +91,8 @@ Immaculate Nayiga
 <img width="1848" height="1012" alt="Screenshot from 2025-09-26 16-15-36" src="https://github.com/user-attachments/assets/fa53e218-31b2-4efa-b51a-2489e598af9d" />
 
 
+## Authored By:
+Immaculate Nayiga
 
 
 
